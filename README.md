@@ -117,7 +117,7 @@ The below diagram is arranged to show the full operational cycle, with distinct 
 - The output is not just a list of commands, but a structured text/JSON "Action Script" that includes justification, risk assessment, and recommended driver incentives for that specific action.
 
 ##### Data Flow :
-![](/assets/DynamicDemandGenAi.png)
+![](/assets/DynamicDemandGenAI.png)
 
 
 ### 2\. Charging/Swap Optimizer - Staff Mobile App View
