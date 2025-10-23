@@ -1,2 +1,0 @@
-# COH_Katas_Q4_2025
-Submission for Architectural Katas Q4 2025: AI-Enabled Architecture
